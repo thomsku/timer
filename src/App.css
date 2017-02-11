@@ -1,0 +1,48 @@
+.App {
+  text-align: center;
+  margin-top: 5em;
+  z-index: 1;
+
+}
+
+h1 {
+  font-size: 4em;
+}
+
+.btn:focus {
+  outline: 0;
+}
+
+.rc-input-number-input {
+  border: none;
+  width: 90px;
+  height: 80px;
+  display: inline;
+  text-align: center;
+}
+
+.input {
+  display: inline-flex;
+}
+
+
+.Ring{
+
+  margin-top: -9em;
+  position: relative;
+  z-index: -1;
+}
+
+.circle {
+  stroke: white;
+}
+
+.icon {
+  height: 100% !important;
+  width: 100% !important;
+}
+
+button {
+  margin: auto !important;
+  display: block !important;
+}
